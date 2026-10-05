@@ -21,7 +21,7 @@ A simple, user-friendly Python command-line utility to encode plain text into 8-
    ```
 4. Run the script:
    ```bash
-   python Binary Decoder.py
+   python 'Binary Decoder.py'
    ```
 
 ## License
