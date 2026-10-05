@@ -13,11 +13,11 @@ A simple, user-friendly Python command-line utility to encode plain text into 8-
 1. Make sure you have [Python](https://python.org) installed.
 2. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Binary-Decoder
    ```
 3. Navigate to the project folder:
    ```bash
-   cd your-repo-name
+   cd Binary-Decoder
    ```
 4. Run the script:
    ```bash
